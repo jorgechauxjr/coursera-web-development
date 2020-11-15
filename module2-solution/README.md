@@ -54,3 +54,10 @@ Here is the mockup illustration of the tablet version of the site. Your final re
 Here is the mockup illustration of the mobile version of the site. Your final result should look very close to this mockup.
 
  ![mobile](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/images/mobile.png?raw=true)
+
+ ### Solution: 
+### [Module 2 Solution](https://jorgechauxjr.github.io/coursera-web-development/module2-solution/)
+#### By Jorge Chaux Jr.
+#### Twitter: [Jorge Chaux Jr](https://twitter.com/jorgechauxjr)
+#### Medium: [Jorge Chaux Jr](https://medium.com/@jorgechauxjr)
+#### LinkedIn: [Jorge Chaux Jr](https://www.linkedin.com/in/jorgechauxjr/)
