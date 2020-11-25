@@ -48,14 +48,14 @@ The dropdown menu should take up the entire width of the browser window. Make su
 
 Both the tablet view and the desktop view of what's graded and required is the same. Here is the mockup illustration of the desktop & tablet version of the site (only required graded parts shown):
 
- ![Desktop and Tablet](images/desktop.png)
+ ![Desktop and Tablet](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/images/desktop.png)
 
 
 Here is the mockup illustration of the mobile view (only required graded parts are shown):
 
- ![mobile collapsed](images/menu-collapsed.png)
+ ![mobile collapsed](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/images/menu-collapsed.png)
 
- ![mobile expanded](images/mobile-expanded.png)
+ ![mobile expanded](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/images/mobile-expanded.png)
 
 
 **&#42;&#42;&#42; REQUIRED GRADED ASSIGNMENT ENDS HERE &#42;&#42;&#42;**  
@@ -100,17 +100,17 @@ For a visual reference of this view, see the mobile mockup illustration below.
 
 **Please NOTE: these mockup illustrations show parts that are optional and not graded for this assignment. Please refer to the requirements above to confirm what parts of the mockup are required and graded and what parts are optional.**
 
-Here is the mockup illustration of the desktop version of the site: ![Desktop - optional](images/desktop-optional.png)
+Here is the mockup illustration of the desktop version of the site: ![Desktop - optional](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/images/desktop-optional.png)
 
 Here is the mockup illustration of the tablet version of the site:   
 
-![Tablet - optional](images/tablet-optional.png)
+![Tablet - optional](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/images/tablet-optional.png)
 
 
 Here is the mockup illustration of the mobile version of the site with the menu dropdown NOT open (on the left) and menu drop down open (on the right):
 
-![Mobile - Optional (Closed)](images/mobile-optional-collapsed.png)
-![Mobile - Optional (Open)](images/mobile-optional-expanded.png)
+![Mobile - Optional (Closed)](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/images/mobile-optional-collapsed.png)
+![Mobile - Optional (Open)](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/images/mobile-optional-expanded.png)
 
  ### Solution: 
 ### [Module 3 Solution](https://jorgechauxjr.github.io/coursera-web-development/module3-solution/)
