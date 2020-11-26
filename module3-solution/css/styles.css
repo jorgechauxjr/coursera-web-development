@@ -1,0 +1,47 @@
+body {
+  font-family: 'Nerko One', cursive;
+}
+
+#header-nav .navbar-brand a{
+  color: black;
+  font-weight: bold;
+}
+
+#header-nav {
+  background-color: #C1BCBC;
+  font-size: larger;
+}
+
+#chicken {
+  background-color: #C1BCBC;
+  margin-bottom: 30px;
+  font-size: larger;
+}
+
+#beef {
+  background-color: #C1BCBC;
+  margin-bottom: 30px;
+  font-size: larger;
+}
+
+#sushi {
+  background-color: #C1BCBC;
+  margin-bottom: 30px;
+  font-size: larger;
+}
+
+#nav-list{
+  background: white;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.navbar-brand {
+  color: black;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+  color: black;
+}
+
